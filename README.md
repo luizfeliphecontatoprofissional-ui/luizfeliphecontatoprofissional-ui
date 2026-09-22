@@ -61,7 +61,7 @@ de repetição, vetores, buscas, contagens e manipulação de dados**.
 
 ---
 
-###🎓 Projetos acadêmicos
+### 🎓 Projetos acadêmicos
 
 ### 🛡️ SENTINEL — Agente autônomo de segurança de e-mail
 
