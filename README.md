@@ -38,6 +38,17 @@ e organização de relatórios.
 
 ---
 
+### 🐍💻 Desafios em Python
+
+Desafios em **Python** que reforçam os conteúdos já vistos por mim,
+com o objetivo de prática e reforço.
+
+`Python` · `Desafios`· `Prática`
+
+[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/desafios-python)
+
+---
+
 ### 💻 Lista de Exercícios 1 — C
 
 Primeira lista de exercícios da disciplina de **Algoritmos e Pensamento
