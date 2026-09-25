@@ -27,7 +27,7 @@ da área de Tecnologia da Informação.
 
 ## 🚀 Projetos em destaque
 
-### 🐍 ProjetoRelatorio
+### 🐍 Projeto Relatório
 
 Aplicação desenvolvida em **Python** para automatizar a geração
 e organização de relatórios.
@@ -43,32 +43,24 @@ e organização de relatórios.
 Desafios em **Python** que reforçam os conteúdos já vistos por mim,
 com o objetivo de prática e reforço.
 
-`Python` · `Desafios`· `Prática`
+`Python` · `Desafios` · `Prática`
 
 [🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/desafios-python)
 
 ---
 
-### 💻 Lista de Exercícios 1 — C
+### 💻📊 Lista de Exercícios 1 e 2 — C
 
-Primeira lista de exercícios da disciplina de **Algoritmos e Pensamento
+Primeiras duas listas de exercícios da disciplina de **Algoritmos e Pensamento
 Computacional**, com foco nos fundamentos da programação em C,
-operações, estruturas condicionais e lógica de programação.
+operações, estruturas condicionais e lógica de programação. A segunda lista também aprofunda
+vetores, estrutura de repetições e mais.
 
-`C` · `Algoritmos` · `Lógica de Programação`
+`C` · `Algoritmos` · `Lógica de Programação` · `Vetores` · `Estruturas de Repetição`
 
-[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/lista-exercicios-c-01)
+[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/lista-exercicios-c-01) - Lista 1
 
----
-
-### 📊 Lista de Exercícios 2 — C
-
-Segunda lista de exercícios da disciplina, avançando para **estruturas
-de repetição, vetores, buscas, contagens e manipulação de dados**.
-
-`C` · `Algoritmos` · `Vetores` · `Estruturas de Repetição`
-
-[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/lista-exercicios-c-02)
+[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/lista-exercicios-c-02) - Lista 2
 
 ---
 
