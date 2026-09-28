@@ -1,6 +1,6 @@
 # Olá, eu sou Luiz Feliphe Andrade 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UP.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação,
 banco de dados, desenvolvimento web e ferramentas utilizadas no dia a dia
@@ -29,8 +29,8 @@ da área de Tecnologia da Informação.
 
 ### 🐍 Projeto Relatório
 
-Aplicação desenvolvida em **Python** para automatizar a geração
-e organização de relatórios.
+Aplicação desenvolvida em **Python** para automatizar a geração, organização de relatórios,
+importação de planilhas.
 
 `Python` · `Automação`
 
@@ -69,7 +69,7 @@ vetores, estrutura de repetições e mais.
 ### 🛡️ SENTINEL — Agente autônomo de segurança de e-mail
 
 Projeto desenvolvido em conjunto com colegas, utilizando **n8n** para
-automatizar o monitoramento de e-mails, análise de URLs suspeitas e
+automatizar o monitoramento de e-mails com análise de URLs suspeitas e
 classificação de riscos.
 
 O sistema integra **Gmail API**, **VirusTotal**, **URLScan.io** e um
@@ -81,7 +81,7 @@ LLM para realizar a triagem das URLs e gerar alertas.
 
 ### ⛽ Sistema de Gestão para Postos de Combustível
 
-Projeto acadêmico desenvolvido em conjunto, envolvendo diferentes etapas
+Projeto acadêmico desenvolvido em grupo, envolvendo diferentes etapas
 de análise e projeto de sistemas.
 
 Foram utilizados **BPMN (AS-IS / TO-BE)**, diagramas **UML**,
@@ -98,4 +98,4 @@ interativo e teste de usabilidade.
 - Desenvolvimento web com **HTML, CSS e JavaScript**
 - Consultas e modelagem de dados com **MySQL**
 - Aprendizado de **Git e GitHub**
-- Desenvolvimento de projetos práticos para a área de TI
+- Desenvolvimento de projetos práticos para a área de T.I.
