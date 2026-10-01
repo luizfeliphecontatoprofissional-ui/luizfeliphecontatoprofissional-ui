@@ -29,21 +29,38 @@ da área de Tecnologia da Informação.
 
 ### 🐍 Projeto Relatório
 
-Aplicação desenvolvida em **Python** para automatizar a geração, organização de relatórios,
+Aplicação desenvolvida em **Python** para automatizar a geração e organização de relatórios a partir de
 importação de planilhas.
 
-`Python` · `Automação`
+`Python` · `Automação` · `Tkinter` · `Automação` · `Excel`
 
 [🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/ProjetoRelatorio)
 
 ---
 
+### 🖨️ Auditoria de Impressoras
+
+Aplicação em **Python** desenvolvida para automatizar a conferência de
+contadores de impressoras, comparando dados do NDD com informações de
+faturamento.
+
+O sistema identifica automaticamente divergências entre os dados,
+gera relatórios em Excel e possui uma interface gráfica para facilitar
+a utilização.
+
+`Python` · `Pandas` · `OpenPyXL` · `Tkinter` · `Automação`
+
+[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/AuditoriaImpressoras)
+
+---
+
 ### 🐍💻 Desafios em Python
 
-Desafios em **Python** que reforçam os conteúdos já vistos por mim,
-com o objetivo de prática e reforço.
+Coleção de exercícios e desafios desenvolvidos para praticar e reforçar
+conceitos de programação em Python, acompanhando minha evolução nos
+estudos.
 
-`Python` · `Desafios` · `Prática`
+`Python` · `Desafios` · `Prática` · `Lógica de Programação` 
 
 [🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/desafios-python)
 
@@ -51,10 +68,9 @@ com o objetivo de prática e reforço.
 
 ### 💻📊 Lista de Exercícios 1 e 2 — C
 
-Primeiras duas listas de exercícios da disciplina de **Algoritmos e Pensamento
-Computacional**, com foco nos fundamentos da programação em C,
-operações, estruturas condicionais e lógica de programação. A segunda lista também aprofunda
-vetores, estrutura de repetições e mais.
+Exercícios desenvolvidos na disciplina de **Algoritmos e Pensamento
+Computacional**, trabalhando fundamentos de C, lógica, condicionais,
+estruturas de repetição e vetores.
 
 `C` · `Algoritmos` · `Lógica de Programação` · `Vetores` · `Estruturas de Repetição`
 
@@ -92,10 +108,25 @@ interativo e teste de usabilidade.
 
 ---
 
+### 🐾 PetVida — Clínica Veterinária
+
+Projeto acadêmico de um **Web App responsivo** para centralizar
+agendamentos, serviços, pets e históricos de uma clínica veterinária.
+
+A proposta surgiu para substituir o controle manual de agenda e
+atendimentos por uma solução digital mais organizada.
+
+`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `LocalStorage`
+
+[🔗 Ver repositório](https://github.com/luizfeliphecontatoprofissional-ui/petvida-clinica)
+
+---
+
 ## 🎯 No que estou focado agora
 
 - Fundamentos de programação em **Python e C**
 - Desenvolvimento web com **HTML, CSS e JavaScript**
 - Consultas e modelagem de dados com **MySQL**
 - Aprendizado de **Git e GitHub**
+- Inglês — nível intermediário (**B2**), buscando evoluir continuamente no idioma
 - Desenvolvimento de projetos práticos para a área de T.I.
